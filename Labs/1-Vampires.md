@@ -26,7 +26,7 @@ Challenges increased, however, when I discovered a second fact: some inhabitants
 1. **Sane humans**, who believe what is real and tell the truth about what they believe
 2. **Insane humans**, who believe the opposite of what is real, but truthfully state their (incorrect) beliefs
 3. **Sane vampires**, who believe real things, but then lie about what they believe
-4. **Insane vampires**, who believe only incorrect things, but then lie about what they believe
+4. **Insane vampires**, who believe the opposite of reality, but then lie about what they believe
 
 For example, if I asked a Ruritanian, "Is the sky blue?", there are four possibilities:
 
