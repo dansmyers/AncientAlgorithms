@@ -22,9 +22,9 @@ Show your work for each question. You can use a calculator to help you with the 
 
 ## Questions
 
-<img src="https://imageproxy.ifunny.co/crop:x-20,resize:640x,quality:90x75/images/48bbf22551fc0ef79c7138b85cc25137376caacb93bd43f2ab04689578d0065c_1.jpg" width="40%" />
-
 ### Conversions
+
+<img src="https://imageproxy.ifunny.co/crop:x-20,resize:640x,quality:90x75/images/48bbf22551fc0ef79c7138b85cc25137376caacb93bd43f2ab04689578d0065c_1.jpg" width="40%" />
 
 Convert the following numbers from base-60 to their base-10 equivalents. Remember that commas are used to separate each place of the number and the semicolon separates the ones place from the fractional place.
 
@@ -41,7 +41,9 @@ A rectangular cistern has been excavated. The total area is 200000 cubic meters 
 Repeat the problem, but now the make the length 100 meters and let the width exceed the height by 50 meters. Tip: does the solution method really need to change?
 
 
+### Roots
 
+Use the Babylonian square root algorithm to calculate the square root of 10201 (in base-10). Use *x*<sub>0</sub> = 1 as the starting point.
 
 
 
