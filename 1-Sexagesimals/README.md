@@ -41,6 +41,15 @@ A rectangular cistern has been excavated. The total area is 200000 cubic meters 
 Repeat the problem, but now the make the length 100 meters and let the width exceed the height by 50 meters. Tip: does the solution method really need to change?
 
 
+### Terms and Conditions
+
+Do some research into the word *algorithm*. What is its origin? What are the properties that theorists have decided that a procedure should have to be considered a valid algorithm?
+
+Give an example of a procedure that isn't really an algorithm.
+
+Evaluate the first example from the Knuth paper according to your conditions. Are the procedures described in the Babylonian tablets algorithms?
+
+
 ### Roots
 
 Use the Babylonian square root algorithm to calculate the square root of 10201 (in base-10). Use *x*<sub>0</sub> = 1 as the starting point.
