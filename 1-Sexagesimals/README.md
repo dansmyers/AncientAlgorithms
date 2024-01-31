@@ -34,11 +34,19 @@ Convert the following numbers from base-60 to their base-10 equivalents. Remembe
 4. 31 ; 59
 
 
+### Arithmetic
+
+Perform the following calculations in base-60. Tip: it may be helpful to think in terms of a clock. You can also use base-10 to check your answers.
+
+1. 3, 30 + 5, 50
+2. 6, 10 - 3, 20
+3. 1, 45 ; 15 + 2, 20 ; 45
+
 ### Twisted Cistern
 
 A rectangular cistern has been excavated. The total area is 200000 cubic meters (in base-10 notation). The height is 20 meters. The width exceeds the length by 50 meters. Use the technique of completing the square to solve for the length and width.
 
-Repeat the problem, but now the make the length 100 meters and let the width exceed the height by 50 meters. Tip: does the solution method really need to change?
+Repeat the problem, but now the make the length 100 meters and let the width exceed the height by 50 meters. Solve for the width and height. Tip: does the solution method really need to change?
 
 
 ### Terms and Conditions
@@ -53,6 +61,17 @@ Evaluate the first example from the Knuth paper according to your conditions. Ar
 ### Roots
 
 Use the Babylonian square root algorithm to calculate the square root of 10201 (in base-10). Use *x*<sub>0</sub> = 1 as the starting point.
+
+
+### This is the procedure.
+
+A rectangular field exists. The area of the field is 60 and the length exceeds the width by 7.
+
+1. Draw a picture of this scenario.
+
+2. Use completion of the square to solve for the length and width.
+
+3. Write the solution procedure for this problem in the style of a Babylonian tablet.
 
 
 
