@@ -34,7 +34,7 @@ Note that, while I expect you to use AI to complete this assignment, some parts 
 
 The overall goal of this assignment is for you to practice using AI in a moderate-length research-based essay. In addition to developing a deeper understanding of your research topic, you will also:
 
-- **Understand the strengths and weaknesses of AI**. Language models are powerful, but aren’t good at everything. You should have a nuanced understanding of the strengths and weaknesses of AI and know how to choose the right tool for a particular task, which includes choosing between different AI tools (for example, Bing AI vs. Claude) and knowing when a search engine is a better choice than an AI.
+- **Understand the strengths and weaknesses of AI**. Language models are powerful, but aren’t good at everything. You should have a nuanced understanding of the strengths and weaknesses of AI and know how to choose the right tool for a particular task, which includes choosing between different AI tools (for example, Copilot vs. Claude) and knowing when a search engine is a better choice than an AI.
 
 
 - **Understand how to use AI in the writing process**, beyond simply giving it a prompt that generates a complete essay. We’ll practice using AI to generate ideas, refine a thesis statement, formulate a research plan, and collaboratively edit your work.
@@ -98,7 +98,7 @@ The log serves two purposes:
 
 - Balance AI assistance with doing your own analysis and using your own voice. Maintain agency over your work!
 
-- Use the right tool for each task. I recommend using either Bing AI or Claude as your main model: both are better than the free version of ChatGPT at this point. Remember that Bing can access the Internet, but sometimes a conventional search engine is a better choice.
+- Use the right tool for each task. I recommend using either Copilot or Claude as your main model: both are better than the free version of ChatGPT at this point. Remember that Copilot can access the Internet, but sometimes a conventional search engine is a better choice.
 
 - Remember that AI has limitations and biases. Do not assume AI output is factual or neutral. Validate against credible sources.
 
@@ -119,7 +119,7 @@ Open your logbook document. Write the following prompt:
 
 *Please generate 10 potential topics for my research paper in the course 'Ancient Algorithms'. The topics should relate to innovations in ancient technology, mathematics, or computation from before 1800 CE. The subject of the paper should be a specific tool, invention, theory, written work, or intellectual movement. Present each topic idea as a title*.
 
-Input the prompt into an AI tool, either Claude or Bing AI in Creative mode. Copy the generated list of 10 topic ideas into your logbook.
+Input the prompt into an AI tool, either Claude or Copilot in Creative mode. Copy the generated list of 10 topic ideas into your logbook.
 
 Write a few sentences reflecting on the topic ideas. Do they seem interesting? Are they appropriate for the scope of this assignment? Would you revise or modify any of them? Note your thoughts in your logbook.
 
@@ -129,7 +129,7 @@ Based on the AI generated ideas and your own interests, choose 2-3 topic ideas t
 
 ### Background pre-research
 
-Next, use the Bing AI in Creative mode to gather some information on your potential topics. Think of this as “pre-research” to give you high-level background on the topics so you can further evaluate them. Here’s an example prompt:
+Next, use the Copilot AI in Creative mode to gather some information on your potential topics. Think of this as “pre-research” to give you high-level background on the topics so you can further evaluate them. Here’s an example prompt:
 
 *I’d like to learn more about [insert topic]. Please provide an overview of its historical background and significance. Include information on what it is, when and where it was created, why it was an important innovation in its time period, and its relevance to modern society*.
 
