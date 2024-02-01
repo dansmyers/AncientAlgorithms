@@ -49,7 +49,7 @@ Perform the following calculations in base-60. Tip: it may be helpful to think i
 
 ### Twisted Cistern
 
-A rectangular cistern has been excavated. The total area is 200000 cubic meters (in base-10 notation). The height is 20 meters. The width exceeds the length by 50 meters. Use the technique of completing the square to solve for the length and width.
+A rectangular cistern has been excavated. The total volume is 200000 cubic meters (in base-10 notation). The height is 20 meters. The width exceeds the length by 50 meters. Use the technique of completing the square to solve for the length and width.
 
 Repeat the problem, but now the make the length 100 meters and let the width exceed the height by 50 meters. Solve for the width and height. Tip: does the solution method really need to change?
 
