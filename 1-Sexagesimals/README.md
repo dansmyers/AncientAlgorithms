@@ -1,6 +1,6 @@
 # Assignment 1: Let's Talk About Sexagesimals
 
-## Due 
+## Due 2/15
 
 <img src="https://imgs.xkcd.com/comics/my_favorite_things_2x.png" width="30%" />
 
