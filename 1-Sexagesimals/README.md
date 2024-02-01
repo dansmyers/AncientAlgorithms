@@ -65,6 +65,8 @@ Use the Babylonian square root algorithm to calculate the square root of 10201 (
 
 ### This is the procedure.
 
+<img src="https://design-newyork.com/blog/wp-content/uploads/2023/04/simpsons-01.jpg" width="40%" />
+
 A rectangular field exists. The area of the field is 60 and the length exceeds the width by 7.
 
 1. Draw a picture of this scenario.
