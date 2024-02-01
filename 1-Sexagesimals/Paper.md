@@ -1,4 +1,10 @@
-# Paper I: Idea Generation
+# Paper Phase I: Idea Generation
+
+<img src="https://storage.googleapis.com/pai-images/9fde941edf2a4bc3accb801d848cbdcd.jpeg" width="50%" />
+
+*Steampunk airship by me using Playground AI*
+
+</br>
 
 ## Overview
 
