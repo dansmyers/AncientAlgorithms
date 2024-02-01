@@ -16,15 +16,20 @@ Upload your solutions to the written questions to the assignment I'll create on 
 
 ## Tips
 
+<img src="https://imageproxy.ifunny.co/crop:x-20,resize:640x,quality:90x75/images/48bbf22551fc0ef79c7138b85cc25137376caacb93bd43f2ab04689578d0065c_1.jpg" width="40%" />
+
+
 Show your work for each question. You can use a calculator to help you with the computations. Remember to always sanity-check your answers to make sure that they're reasonable.
 
 
 
 ## Questions
 
+<img src="https://design-newyork.com/blog/wp-content/uploads/2023/04/simpsons-01.jpg" width="25%" />
+
+
 ### Conversions
 
-<img src="https://imageproxy.ifunny.co/crop:x-20,resize:640x,quality:90x75/images/48bbf22551fc0ef79c7138b85cc25137376caacb93bd43f2ab04689578d0065c_1.jpg" width="40%" />
 
 Convert the following numbers from base-60 to their base-10 equivalents. Remember that commas are used to separate each place of the number and the semicolon separates the ones place from the fractional place.
 
@@ -64,8 +69,6 @@ Use the Babylonian square root algorithm to calculate the square root of 10201 (
 
 
 ### This is the procedure.
-
-<img src="https://design-newyork.com/blog/wp-content/uploads/2023/04/simpsons-01.jpg" width="25%" />
 
 A rectangular field exists. The area of the field is 60 and the length exceeds the width by 7.
 
