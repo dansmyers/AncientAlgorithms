@@ -75,7 +75,7 @@ This is intentionally broad. I want you to explore your own interests and bring 
 
 This assignment is broken up into five phases, described in detail below. Each phase has a particular deliverable that you’ll submit. Read each phase carefully, because I will give you specific steps and prompts to use with AI tools for each part.
 
-You will also maintain a logbook keeping track of each step in your process. This is where you’ll record the prompts you give to the AI, the output it produces, and your responses and revisions. The directions for each phase will tell you when to record something in the log; make sure to read them carefully.
+You will also maintain a **logbook** keeping track of each step in your process. This is where you’ll record the prompts you give to the AI, the output it produces, and your responses and revisions. The directions for each phase will tell you when to record something in the log; make sure to read them carefully.
 
 The log serves two purposes:
 
@@ -153,7 +153,7 @@ Record the AI suggested research plan in your logbook. Make any revisions to the
 
 ### Submission
 
-At the end of this phase, you’ll submit:
+At the end of this phase, you’ll submit the following to an assignment I'll create on Canvas:
 
 - Your topic.
 - Your research plan.
