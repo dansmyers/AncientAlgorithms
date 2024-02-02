@@ -71,5 +71,24 @@ where the right-hand side is the original area and the subtracted term is the ar
 
 *w* = sqrt(1100) - 10
 
-Solving (with the aid of a calculator, which is fine for these calculations) gives that *w* is about equal to 23.1667 and therefore *l* is about 43.1667. Checking the area will show that the product of those two values is very close to 1000, which is what we want.
+Solving (with the aid of a calculator, which is fine for these calculations) gives that *w* is about equal to 23.16625 and therefore *l* is about 43.16625. Checking the area will show that the product of those two values is very close to 1000, which is what we want.
+
+
+## In 3-D
+
+Here is a problem similar to the first example in the Knuth paper that we looked at in class.
+
+A rectangular cistern. A volume 10000 cubic cubits has been excavated. The height is 5 cubits. The length exceeds the width by 50 cubits. Find the length and width.
+
+If it's helpful, start by drawing the rectangular box and labeling the length, width, and height. We're given the volume of 10000 and the known height of 5. Again, the units of cubits are merely flavor text, which I use to create a certain flair in the problem; they don't affect the solution.
+
+The starting equation here is the volume:
+
+*l**w**h* = 10000
+
+The first step is to divide by the height and isolate *l**w*, which is the area of the base:
+
+*l**w* = 2000
+
+This is now the same setup as the previous problem: We have a rectangular region of known area and a relationship between the length and width. Use the same technique as the last example to solve.
 
