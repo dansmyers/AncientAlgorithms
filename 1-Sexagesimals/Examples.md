@@ -84,11 +84,11 @@ If it's helpful, start by drawing the rectangular box and labeling the length, w
 
 The starting equation here is the volume:
 
-*l**w**h* = 10000
+*l* *w* *h* = 10000
 
-The first step is to divide by the height and isolate *l**w*, which is the area of the base:
+The first step is to divide by the height and isolate *l* *w*, which is the area of the base:
 
-*l**w* = 2000
+*l* *w* = 2000
 
 This is now the same setup as the previous problem: We have a rectangular region of known area and a relationship between the length and width. Use the same technique as the last example to solve.
 
