@@ -92,3 +92,53 @@ The first step is to divide by the height and isolate *l**w*, which is the area 
 
 This is now the same setup as the previous problem: We have a rectangular region of known area and a relationship between the length and width. Use the same technique as the last example to solve.
 
+
+## Variations
+
+Consider a few ways these problems could be made different:
+
+- Both examples were given the length in terms of the width, then solved for the width. We could just as easily have had a problem that gave the width in terms of the length, then solved for the length. The same solution technique would work in both cases.
+
+- Likewise, we could have been given a cistern of known volume and width, then divided by the width to obtain the area of one of the side walls (*l**h*). From that point, we could solve for the length and height.
+
+- We could play with the units. In the second Knuth example, we were given that the width was .5 cubits and the height was .5 *gars*, where 1 gar = 12 cubits. Don't let this kind of thing confuse you! The unit names may be unfamiliar, but what matters is the relationship. In this case, the height is equal to 6 cubits.
+
+
+## Field Theory
+
+Here's an original variation that's different from the previous problems.
+
+There are three fields, all of the same width. The first field has a length equal to the width. The second has a length four times the width, and the third has a length of 100 cubits. The area of all three fields together is 5000 square cubits. Find the width.
+
+There's a lot of information here, which could be challenging to process, but remember to think geometrically. Draw a picture of all three fields together. They have the same width, so we can lay them out like so:
+
+```
+    ------------------------------------------
+   |       |                          |       |
+   |       |                          |       |
+w  |       |                          |       |
+   |       |                          |       |
+   |       |                          |       |
+    ------------------------------------------
+       w                 4w               100           
+
+```
+
+Adding the areas:
+
+*w*<sup>2</sup> + 4*w*<sup>2</sup> + 100w = 5000
+
+Combining the first two terms:
+
+5*w*<sup>2</sup> + 100w = 5000
+
+Divide through by 5 to get *w*<sup>2</sup> with a coefficient of 1:
+
+*w*<sup>2</sup> + 20w = 1000
+
+This is the same equation as the first problem! Solve it using the same technique and you'll obtain the same value of *w*.
+
+
+
+
+
