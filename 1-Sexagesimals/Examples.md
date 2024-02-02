@@ -104,6 +104,10 @@ Consider a few ways these problems could be made different:
 - We could play with the units. In the second Knuth example, we were given that the width was .5 cubits and the height was .5 *gars*, where 1 gar = 12 cubits. Don't let this kind of thing confuse you! The unit names may be unfamiliar, but what matters is the relationship. In this case, the height is equal to 6 cubits.
 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Lepisosteus_oculatus.jpg/1920px-Lepisosteus_oculatus.jpg" width="33%" />
+
+*1 gar*
+
 ## Field Theory
 
 Here's an original variation that's different from the previous problems.
