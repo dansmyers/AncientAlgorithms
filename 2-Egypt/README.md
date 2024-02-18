@@ -15,9 +15,9 @@ Complete the seond phase of the paper project described in `Paper.md`.
 
 Calculate the following products using the Egyptian multiplication technique.
 
-- 67 * 8
-- 113 * 12
-- 77 * 21
+- 67 x 8
+- 113 x 12
+- 77 x 21
 
 ### Peasant multiplication
 
