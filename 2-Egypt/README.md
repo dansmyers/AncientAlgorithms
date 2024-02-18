@@ -1,8 +1,8 @@
-# Assignment 2: Egypt
+# Assignment 2: Multiply Like an Egyptian
 
 ## Due Wednesday, 3/6
 
-<img src="https://i.redd.it/pgmo7es4w3391.jpg" width="35%" />
+<img src="https://i.redd.it/pgmo7es4w3391.jpg" width="40%" />
 
 ## Overview
 
