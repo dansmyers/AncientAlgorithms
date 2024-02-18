@@ -4,6 +4,9 @@
 
 <img src="https://i.redd.it/pgmo7es4w3391.jpg" width="40%" />
 
+
+*[Put the crystal skull back on top of the Memphis pyramid](https://www.change.org/p/memphis-city-council-put-the-crystal-skull-back-on-top-of-the-memphis-pyramid)
+
 ## Overview
 
 Complete the problems given below. I will add a few more problems to this set once we've unlocked a few more techniques in class.
