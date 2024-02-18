@@ -24,7 +24,13 @@ Calculate the following products using the Egyptian multiplication technique.
 - 113 x 12
 - 77 x 21
 
+
 ### Peasant multiplication
 
 Repeat the same problems given above, but use the peasant multiplication technique.
+
+
+### Binary Peasants
+
+Multiply the binary numbers `11010` and `1001` using the peasant multiplication technique.
 
