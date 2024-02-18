@@ -1,6 +1,8 @@
-# Assignment 2: Egyptian
+# Assignment 2: Egypt
 
 ## Due Wednesday, 3/6
+
+<img src="https://i.redd.it/pgmo7es4w3391.jpg" width="35%" />
 
 ## Overview
 
