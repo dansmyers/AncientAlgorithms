@@ -5,7 +5,7 @@
 <img src="https://i.redd.it/pgmo7es4w3391.jpg" width="40%" />
 
 
-*[Put the crystal skull back on top of the Memphis pyramid](https://www.change.org/p/memphis-city-council-put-the-crystal-skull-back-on-top-of-the-memphis-pyramid)
+[*Put the crystal skull back on top of the Memphis pyramid*](https://www.change.org/p/memphis-city-council-put-the-crystal-skull-back-on-top-of-the-memphis-pyramid)
 
 ## Overview
 
