@@ -4,5 +4,6 @@
 
 ## Overview
 
+Plimpton 322 is a cuneiform tablet housed at Columbia University. It's attracted attention as a significant mathematical artifact from antiquity.
 
 ##
