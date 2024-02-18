@@ -1,6 +1,6 @@
 # Plimpton 322
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Plimpton_322.jpg" width="33%" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Plimpton_322.jpg" width="50%" />
 
 *Image by Bill Casselman*
 
@@ -83,11 +83,11 @@ Remember: Your goal is to **summarize** the content of the section, not duplicat
 
 - The third paragraph could be summarized as, "Historical context will allow us to choose between the interpretations of Plimpton 322".
 
-Summarizing paragraphs is a good rule of thumb, but you may occasionally need more than one point per paragraph. If, however, you find yourself making one point per *sentence*, that's probably too much, unless it's truly a key section of the paper.
+Summarizing paragraphs is a good rule of thumb, but you may occasionally need more than one point per paragraph. If, however, you find yourself making one point per *sentence*, that's probably too much, unless it's truly a key section of the paper. Use your judgment, but err on the side of being more concise.
 
 ### Step 4: Summary paragraph
 
-Use your section outline to produce a condensed one-paragraph summary of the entire paper, roughly four to six sentences. You could think of this as an alternative abstract, but one customized to the points that are most relevant to your own research.
+Use your section outline to produce a condensed one-paragraph summary of the entire paper, aim for 4 to 6 sentences. You could think of this as an alternative abstract, but one customized to the points that are most relevant to your own reading.
 
 ## Submission
 
