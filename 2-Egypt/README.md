@@ -34,3 +34,31 @@ Repeat the same problems given above, but use the peasant multiplication techniq
 
 Multiply the binary numbers `11010` and `1001` using the peasant multiplication technique.
 
+
+### Circles
+
+There is a circular field of diameter 99. What is its area?
+
+- Calculate the true answer and then the answer using the Egyptian approximation
+- Find the percent error in your estimation
+
+Suppose that you used the modern approximation of 22/7 for the value of pi. What would be the percentage error in that case?
+
+### Series
+
+- There are 11 houses
+- Each house has 11 cats
+- Each cat has 11 kittens
+- Each kitten eats 11 mice
+- Each mouse had eaten 11 seeds
+- Each seed would have yielded 11 units of grain
+- Each unit of grain would have baked 11 loaves
+- Each loaf would have been split by 11 men
+- Each man has 11 children
+- Each child has 11 letters in its name
+
+What is the sum of all the enumerated things?
+
+Calculate your answer using the formula for the geometric series.
+
+
