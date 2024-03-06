@@ -16,7 +16,7 @@ This table is interesting, because it appears to show a level of mathematical so
 
 Scholars have tried to understand the process for how the table might have been constructed, with arguments that its author must have had a surprisingly advanced understanding of number theory or trigonometry.
 
-In this project, you're going to read a 2002 paper about Plimpton 322 by Eleanor Robson, British assyriologist (a scholar who studies the ancient near East). In it, Robson digs into the actual cultural and linguistic content of the tablet and uses those facts to understand its mathematics. We're going to use this Robon's paper to practice your literature reading skills and the art of summarizing a paper.
+In this project, you're going to read a 2002 paper about Plimpton 322 by Eleanor Robson, British assyriologist (a scholar who studies the ancient near East). In it, Robson digs into the actual cultural and linguistic content of the tablet and uses those facts to understand its mathematics. We're going to use Robson's paper to practice your literature reading skills and the art of summarizing a paper.
 
 ## The Literature Review
 
