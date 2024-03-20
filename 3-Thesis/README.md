@@ -1,5 +1,8 @@
 # Phase 3: Thesis Statement and Outlining
 
+## Due March 28
+
+
 <img src="https://preview.redd.it/retro-pok%C3%A9mon-done-by-ghibli-part-2-v0-cihkla529aib1.jpg?width=1024&format=pjpg&auto=webp&s=298b2baffdd8505abf9770ae8e15a6c7477bcd2e" width="50%" />
 
 *Studio Ghibli Pokémon by Reddit user u/smoley*
