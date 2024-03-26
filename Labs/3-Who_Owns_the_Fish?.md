@@ -27,7 +27,7 @@ This is my all-time favorite problem. It's often attributed to Einstein (there's
 
 ## Solving the Puzzle
 
-Begin with an image of the five houses in a line. Each house is like a basket of five attributes: *Nationality*, *Color*, *Drinks*, *Smokes*, and *Pet*. You can represent the solution in a table where each row is house and each attribute is a column. This will map to the matrix solution we'll use in the program.
+Begin with an image of the five houses in a line. Each house is like a basket of five attributes: *Nationality*, *Color*, *Drinks*, *Smokes*, and *Pet*. You can represent the solution in a table where each row is house and each attribute is a column.
 
 Some information is given immediately in the puzzle.
 
