@@ -27,18 +27,18 @@ This is my all-time favorite problem. It's often attributed to Einstein (there's
 
 ## Solving the Puzzle
 
-Begin with an image of the five houses in a line. Each house is like a basket of five attributes: *Nationality*, *Color*, *Drinks*, *Smokes*, and *Pet*. You can represent the solution in a table where each row is house and each attribute is a column.
+Begin with an image of the five houses in a line. Each house is like a basket of five attributes: *Nationality*, *Color*, *Drinks*, *Smokes*, and *Pet*. You can represent the solution in a table where each column is house and each attribute is a row.
 
 Some information is given immediately in the puzzle.
 
 ```
-House    Nationality    Color    Drinks    Smokes    Pet
------    -----------    -----    ------    ------    ---
-1         Norwegian
-2                       Blue
-3                                 Milk
-4
-5
+                   1          2          3          4          5
+                  ---        ---        ---        ---        ---
+Nationality    Norwegian
+Color                        Blue
+Drinks                                  Milk
+Smokes
+Pet
 ```
 
 <br/>
@@ -57,13 +57,13 @@ Here are some tips to help you get started:
 - The owner of the yellow house smokes Dunhills and the Brit lives in the red house.
 
 ```
-House     Nationality     Color     Drinks     Smokes     Pet
------     -----------     -----     ------     ------     ---
-1         Norwegian       Yellow               Dunhills
-2                         Blue
-3         Brit            Red       Milk
-4
-5
+                   1          2          3          4          5
+                  ---        ---        ---        ---        ---
+Nationality    Norwegian                Brit
+Color           Yellow       Blue       Red
+Drinks                                  Milk
+Smokes         Dunhills
+Pet
 ```
 
 Keep going and work out the rest of the solution.
