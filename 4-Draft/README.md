@@ -4,6 +4,8 @@
 
 *Retrofuturistic Japan in space by Reddit user u/jedzsol*
 
+## Due April 16
+
 ## Create the rough draft
 
 It’s now time to turn the detailed outline you produced in Phase 3 into a full draft of the paper.
