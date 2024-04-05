@@ -48,7 +48,7 @@ Aristarchus's original writing describing his heliocentric model is lost. We do 
 
 The model is similar to our current conception of the solar system, with the Sun at the center and the earth and other planets moving in circular orbits about it. Much, much, *much* further away is the "sphere of fixed stars", representing the stationary stars. From a 2D side view, the model looks like this:
 
-<img src="https://lh5.googleusercontent.com/proxy/FvN1nEgkEiIzAsTHWJ_7iRGyr6Qk7n2DWtk4StZdmkLTGvkU7IWz8h5m5BqO-2nQCL1ilc-v8FHNHXdER8E" width="200px" />
+<img src="https://lh5.googleusercontent.com/proxy/FvN1nEgkEiIzAsTHWJ_7iRGyr6Qk7n2DWtk4StZdmkLTGvkU7IWz8h5m5BqO-2nQCL1ilc-v8FHNHXdER8E" width="300px" />
 
 *Greg Bothun, U. Oregon*
 
