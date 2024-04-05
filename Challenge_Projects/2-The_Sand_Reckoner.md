@@ -92,7 +92,7 @@ He then defines the *second order* as all the numbers that can be represented fr
 
 The *third order* are all the numbers from 100,000,000<sup>2</sup> to 100,000,000<sup>3</sup>. He then proposes continuing this process until arriving at the 100,000,000th order, which reaches the number 100,000,000<sup>100,000,000</sup>.
 
-Archimedes didn't represent his system this way, but we can see that he's really defining a positional number system of base-100 million! Each "order" of his system corresponds to one digit that represents a power of 100,000,000. A number of the third order, for example, has the following form:
+Archimedes' system is very similar to a positional number system of **base-100 million**! Each "order" of his system is like adding one more digit that represents a power of 100,000,000. A number of the third order, for example, could be written in the following form:
 
 ```
     a  b  c
@@ -105,7 +105,7 @@ Archimedes didn't represent his system this way, but we can see that he's really
     this place stands for a * 100,000,000^2
 ```
 
-The 100,000,000th order corresponds to the base-100 million numbers having 100 million digits.
+In our modern framework, such a number could represent values from 0 to 100,000,000<sup>3</sup> - 1. The 100,000,000th order corresponds to the base-100 million numbers having 100 million digits.
 
 But Archimedes is an absolute legend for a reason and he ***SIMPLY REFUSES TO QUIT MAKING EVEN HUGER NUMBERS***. 
 
@@ -115,8 +115,9 @@ He calls the number 100,000,000<sup>100,000,000</sup> the *first period* and pro
 
 This is a 1 followed by 8 billion billion zeros (80 quadrillion zeros).
 
+### Grains of sand
 
-
+Now the key question: Is such a number big enough to represent the grains of sand that would fill the entire universe?
 
 
 
