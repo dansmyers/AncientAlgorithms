@@ -8,7 +8,7 @@
 
 1. Estimate the size of the universe, which Archimedes does using a model proposed Aristarchus of Samos, an earlier astronomer. The model of Aristarchus is *heliocentric*, making this one of the earliest theories that assumes the Earth and planets move about the sun.
 
-2. Develop a method for representing very large numbers. Greek numbers used a system where different letters stood for different magnitudes. Their largest standard number was the *myriad*, which equaled 10000. Archimedes designs a place-value number system using the *myriad of myriads* (that is, 10000 * 10000 = 100 million) as its base unit.
+2. Develop a method for representing very large numbers. Greek numbers used a system where different letters stood for different magnitudes. Their largest standard number was the *myriad*, which equaled 10,000. Archimedes designs a place-value number system using the *myriad of myriads* (that is, 10,000 * 10,000 = 100 million) as its base unit.
 
 Archimedes' goal in making this argument is less about producing a real accurate estimate of the grains of sand that could fit in the universe, and more about showing that it's possible to calculate with quantities that would have been, by the standards of the time, unimaginably huge.
 
