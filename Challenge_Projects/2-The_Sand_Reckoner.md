@@ -44,7 +44,7 @@ After the introduction, there are three major sections, each laying out one part
 
 ### The size of the universe
 
-Aristarchus's original writing describing his heliocentric model is lost. We do have other writings by him and use a geocentric model and perform gnarly feats of trigonometry to do things like estimate the sizes and distances of the Sun and Moon.
+Aristarchus's original writing describing his heliocentric model is lost. We do have other writings by him that use a geocentric model and perform gnarly feats of trigonometry to do things like estimate the sizes and distances of the Sun and Moon.
 
 The model is similar to our current conception of the solar system, with the Sun at the center and the earth and other planets moving in circular orbits about it. Much, much, *much* further away is the "sphere of fixed stars", representing the stationary stars. From a 2D side view, the model looks like this:
 
@@ -52,14 +52,69 @@ The model is similar to our current conception of the solar system, with the Sun
 
 *Greg Bothun, U. Oregon*
 
-The stars are the outermost boundary of everything, and Archimedes wants to fill the sphere they surround with sand. Therefore, he needs to know the **diameter** of the sphere of stars.
+The stars are the outermost boundary of everything, and Archimedes wants to fill the sphere they surround with sand. Therefore, he needs to know the **diameter** of the sphere of stars so he can calculate its volume.
+
+Archimedes argues (in an ad-hoc way) that the relationship between the stars and the Earth/Sun center of the universe is the same as the relationship between the Earth and Sun:
+
+```
+   diameter of the sphere of fixed stars             diameter of the Earth's orbit around the Sun
+--------------------------------------------    =    --------------------------------------------
+diameter of the Earth's orbit around the Sun                    diameter of the Earth
+```
+
+Therefore, if Archimedes knows the diameter of the Earth and the diameter of the orbit around the Sun, he can find the diameter of the entire universe.
+
+He first assumes the circumference of the Earth is no more than 3 million *stadia*. He notes that this is much bigger than other estimates, which were closer to 300,000 stadia. Recall that we discussed Erasothenes, who came up with an estimate of about 250,000 stadia. Dividing by 3 as an approximation of pi, we conclude that the diameter of the Earth can't be bigger than 1 million stadia. This is the first piece.
+
+Citing earlier astronomers, he then states that the diameter of the Sun is no more than 30 times the diameter of the moon. The Earth is bigger than the moon, so the Sun's diameter can't be more than 30 million stadia.
+
+The final part of this argument is the most technical. Archimedes argues that the orbit of the Earth around the Sun is about 1000 times the Sun's diameter. In the original manuscript, this leads to a long discussion where he describes an experiment he carried out to measure the angular size of the Sun in the sky. You can see some details [here](https://web.calstatela.edu/faculty/hmendel/Ancient%20Mathematics/Archimedes/SandReckoner/Ch.1/Ch1.html), but don't stress about it; it's pretty hard to follow.
+
+Putting all this together:
+
+- The Earth's diameter is roughly 1 million stadia
+
+- The Sun's diameter is 30 times this: 30 million stadia
+
+- The orbit of the Earth is 1000 times the Sun's diameter: 30 billion stadia
+
+- Therefore, the diameter of Earth's orbit is about 10 billion stadia, which is 10000 times the diameter of Earth (1 million * 10000 = 10 billion)
+
+- The diameter of the entire universe is therefore 10 billion * 10000 = 100 trillion stadia. This is about [two light years](https://en.wikipedia.org/wiki/The_Sand_Reckoner), which might make Archimedes the first person to think on the scale of real astronomy.
+
+### Big Numbers
+
+The second part of the manuscript discusses Archimedes' system for representing big numbers.
+
+He starts with the standard Greek unit of a *myriad*, which is 10,000, and then proposes to count based upon the *myriad of myriads*, which is 10,000 * 10,000 = 100 million. He calls the numbers from 1 to 100 million the *first order*.
+
+He then defines the *second order* as all the numbers that can be represented from 100,000,000 to 100,000,000<sup>2</sup>. That is, the largest number of the second order is a *myriad of myriads of a myriad of myriads*.
+
+The *third order* are all the numbers from 100,000,000<sup>2</sup> to 100,000,000<sup>3</sup>. He then proposes continuing this process until arriving at the 100,000,000th order, which reaches the number 100,000,000<sup>100,000,000</sup>.
+
+Archimedes didn't represent his system this way, but we can see that he's really defining a positional number system of base-100 million! Each "order" of his system corresponds to one digit that represents a power of 100,000,000. A number of the third order, for example, has the following form:
+
+```
+    a  b  c
+    ^  ^  ^  
+    |  |  |
+    |  |  c * 100,000,000^0
+    |  | 
+    |  b * 100,000,000^1
+    |
+    this place stands for a * 100,000,000^2
+```
+
+The 100,000,000th order corresponds to the base-100 million numbers having 100 million digits. But Archimedes is an absolute legend and ***SIMPLY REFUSES TO QUIT MAKING EVEN HUGER NUMBERS***.
+
+He calls the number 100,000,000<sup>100,000,000</sup> the *first period* and proposes to now use *that* as the base of his number system. He works his way up to a number that is equivalent 100 million digits in base-100,000,000<sup>100,000,000</sup>. The largest value represented by Archimedes system is
+
+(100,000,000<sup>100,000,000</sup>)<sup>100,000,000</sup>
+
+This is a 1 followed by 8 billion billion zeros (80 quadrillion zeros).
 
 
 
-### Big numbers
-
-
-### Grains of sand
 
 
 
