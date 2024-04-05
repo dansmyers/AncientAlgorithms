@@ -105,9 +105,9 @@ Archimedes didn't represent his system this way, but we can see that he's really
     this place stands for a * 100,000,000^2
 ```
 
-The 100,000,000th order corresponds to the base-100 million numbers having 100 million digits. But Archimedes is an absolute legend and ***SIMPLY REFUSES TO QUIT MAKING EVEN HUGER NUMBERS***.
+The 100,000,000th order corresponds to the base-100 million numbers having 100 million digits.
 
-He calls the number 100,000,000<sup>100,000,000</sup> the *first period* and proposes to now use *that* as the base of his number system. He works his way up to a number that is equivalent 100 million digits in base-100,000,000<sup>100,000,000</sup>. The largest value represented by Archimedes system is
+But Archimedes is an absolute legend and ***SIMPLY REFUSES TO QUIT MAKING EVEN HUGER NUMBERS***. He calls the number 100,000,000<sup>100,000,000</sup> the *first period* and proposes to now use *that* as the base of his number system. He works his way up to a number that is equivalent 100 million digits in base-100,000,000<sup>100,000,000</sup>. The largest value represented by Archimedes system is
 
 (100,000,000<sup>100,000,000</sup>)<sup>100,000,000</sup>
 
