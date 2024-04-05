@@ -139,7 +139,7 @@ which is 1 sextillion grains of sand in modern notation.
 
 The estimated size of the universe is 100 trillion stadia (10<sup>14</sup>), so the estimated number of grains in the entire universe is
 
-(10<sup>14</sup>)<sup>3</sup> * 10<sup>21</sup>
+(10<sup>14</sup>)<sup>3</sup> * 10<sup>21</sup> = 10<sup>42</sup> * 10<sup>21</sup> = 10<sup>63</sup>
 
 
 
