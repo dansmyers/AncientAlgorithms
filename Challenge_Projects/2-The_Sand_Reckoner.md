@@ -125,7 +125,7 @@ Throughout the last part, Archimedes uses the fact that the volume of a sphere s
 - If you make the diameter ten times larger, the volume increases by a factor of 1000
 - If you 100x the diameter, the volume increases by a factor of 1 million
 
-This is a (mostly) straightforward scaling argument. Archimedes asserts, without proof, that at most 10,000 grains of sand would fit into the volume of a poppy seed. He then states that a finger width (*dactyl*) is 40 poppy seeds long, so the grains of sand that would fit into a sphere with a diameter of one dactyl is at most
+This is a (mostly) straightforward scaling argument. Archimedes asserts, without proof, that at most 10,000 grains of sand would fit into the volume of a poppy seed. He then states that a finger width (*dactyl*) is 40 poppy seeds, so the grains of sand that would fit into a sphere with a diameter of one dactyl is at most
 
 40<sup>3</sup> * 10,000 = 64,000 * 10,000 = 640 million
 
@@ -141,6 +141,5 @@ The estimated size of the universe is 100 trillion stadia (10<sup>14</sup>), so 
 
 (10<sup>14</sup>)<sup>3</sup> * 10<sup>21</sup> = 10<sup>42</sup> * 10<sup>21</sup> = 10<sup>63</sup>
 
-
-
+This is less than the largest number of Archimedes' eighth order, which would be 10<sup>64</sup>, so his number system has no difficulty representing the number of grains of sand in this model of the universe.
 
