@@ -109,7 +109,7 @@ In our modern framework, such a number could represent values from 0 to 100,000,
 
 But Archimedes is an absolute legend for a reason and he ***SIMPLY REFUSES TO QUIT MAKING EVEN HUGER NUMBERS***. 
 
-He calls the number 100,000,000<sup>100,000,000</sup> the *first period* and proposes to now use *that* as the base of his number system. He works his way up to a number that is equivalent 100 million digits in base-100,000,000<sup>100,000,000</sup>. The largest value represented by Archimedes system is
+He calls the number 100,000,000<sup>100,000,000</sup> the *first period* and proposes to now use *that* as the base of his number system. He works his way up to a number that is equivalent 100 million digits in base-100,000,000<sup>100,000,000</sup>. The largest value represented by Archimedes' system is
 
 (100,000,000<sup>100,000,000</sup>)<sup>100,000,000</sup>
 
@@ -118,6 +118,29 @@ This is a 1 followed by 8 billion billion zeros (80 quadrillion zeros).
 ### Grains of sand
 
 Now the key question: Is such a number big enough to represent the grains of sand that would fill the entire universe?
+
+Throughout the last part, Archimedes uses the fact that the volume of a sphere scales with the cube of its diameter:
+
+- If you double the diameter of sphere, the volume increases by a factor of 8
+- If you make the diameter ten times larger, the volume increases by a factor of 1000
+- If you 100x the diameter, the volume increases by a factor of 1 million
+
+This is a (mostly) straightforward scaling argument. Archimedes asserts, without proof, that at most 10,000 grains of sand would fit into the volume of a poppy seed. He then states that a finger width (*dactyl*) is 40 poppy seeds long, so the grains of sand that would fit into a sphere with a diameter of one dactyl is at most
+
+40<sup>3</sup> * 10,000 = 64,000 * 10,000 = 640 million
+
+Archimedes then says that this is less than 1 billion, which can be written using numbers of his previously-defined second order.
+
+Making the sphere bigger, Archimedes says that one *stade* is less than 10,000 finger lengths, so the number of grains that could fill a sphere of one *stade* diameter is no more than
+
+10,000<sup>3</sup> * 1 billion = 1 trillion * 1 billion = 10<sup>12</sup> * 10<sup>9</sup> = 10<sup>21</sup>
+
+which is 1 sextillion grains of sand in modern notation.
+
+The estimated size of the universe is 100 trillion stadia (10<sup>14</sup>), so the estimated number of grains in the entire universe is
+
+(10<sup>14</sup>)<sup>3</sup> * 10<sup>21</sup>
+
 
 
 
