@@ -44,6 +44,8 @@ Submit the following:
 <img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/59/2019/03/27124326/Blooms-Taxonomy-650x366.jpg" width="600px" />
 
 Bloom's Taxonomy is named after Benjamin Bloom, who led a committee that devised the first version in the 1950s. It proposes a hierarchy of learning complexities, with the easiest tasks (pure factual recall) at the bottom, and the hardest (genuine creative extension) at the top.
+
+The goal is not for one assignment to hit every level of the hierarchy (which usually isn't possible), but to give instructors a tool to determine the relative complexity of their learning goals. We generally want to design our assignments with the goal of moving students from the bottom towards the top over the course of a unit/course/curriculum.
  
 
 
