@@ -43,8 +43,6 @@ Submit the following:
 
 <img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/59/2019/03/27124326/Blooms-Taxonomy-650x366.jpg" width="600px" />
 
-*Vanderbilt Teaching and Learning*
-
 Bloom's Taxonomy is named after Benjamin Bloom, who led a committee that devised the first version in the 1950s. It proposes a hierarchy of learning complexities, with the easiest tasks (pure factual recall) at the bottom, and the hardest (genuine creative extension) at the top.
  
 
