@@ -47,7 +47,7 @@ Bloom's Taxonomy is named after Benjamin Bloom, who led a committee that devised
 
 The goal is not for one assignment to hit every level of the hierarchy (which usually isn't possible), but to give instructors a tool to determine the relative complexity of their learning goals. We generally want to design our assignments with the goal of moving students from the bottom towards the top over the course of a unit/course/curriculum.
  
-
+Submit one document containing those three pieces to the assignment I'll create on Canvas.
 
 ## Notes on *The Sand Reckoner*
 
