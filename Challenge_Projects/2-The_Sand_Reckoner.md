@@ -1,6 +1,6 @@
 # Challenge Project: *The Sand Reckoner*
 
-## Due
+## Due 4/25 (next to last day of class)
 
 ## Overview
 
@@ -22,12 +22,34 @@ Instead: You're going to **design your own assignment** based on *The Sand Recko
 
 - Develop an assignment that a hypothetical student could do based on the work. This *could* be a set of questions or a writing prompt, but you can choose another option if you like. Your assignment must give specific learning goals your student will demonstrate by performing it.
 
-- Map the goals of your assignment to the levels of **Bloom's Taxonomy**, a model of the complexity of learning tasks, described below.
 
-Note that you don't have to *do* your own assignment. It's enough to design one, state its learning goals, and map them to Bloom's Taxonomy. You should, however, choose something could feasibly be done by a potential student.
+## Deliverable
+
+Start by spending some time with the text.
+
+- Start by looking at [this version](https://www.ucolick.org/~laugh/reckoner.shtml), which is a paraphrase of the important content
+
+- Then look at my notes below and compare them to the document
+
+- A more detailed translation is available [here](https://web.calstatela.edu/faculty/hmendel/Ancient%20Mathematics/Archimedes/SandReckoner/Ch.1/Ch1.html); note that this version has a lot of additional technical detail that isn't necessary to understand
+
+Once you feel that you have a grasp on the material, come up with a creative assignment based upon some aspect of *The Sand Reckoner*. Note that you don't have to *do* your own assignment. You should, however, choose something could feasibly be done by a potential student.
+
+Submit the following:
+
+- A write-up of your assignment (about one page)
+- A short summary of how your assignment extends the material of the text; What will a student learn by doing your assignment?
+- Finally, a statement of how the goals of your assignment map to **Bloom's Taxonomy**, a standard framework for assessing the complexity of learning goals.
+
+<img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/59/2019/03/27124326/Blooms-Taxonomy-650x366.jpg" width="400px" />
+
+*Vanderbilt Teaching and Learning*
+
+Bloom's Taxonomy is named after Benjamin Bloom, who led a committee that devised the first version in the 1950s. It proposes a hierarchy of learning complexities, with the easiest tasks (pure factual recall) at the bottom, and the hardest (genuine creative extension) at the top.
+ 
 
 
-## Notes
+## Notes on *The Sand Reckoner*
 
 ### The manuscript
 
@@ -46,7 +68,7 @@ After the introduction, there are three major sections, each laying out one part
 
 Aristarchus's original writing describing his heliocentric model is lost. We do have other writings by him that use a geocentric model and perform gnarly feats of trigonometry to do things like estimate the sizes and distances of the Sun and Moon.
 
-The model is similar to our current conception of the solar system, with the Sun at the center and the earth and other planets moving in circular orbits about it. Much, much, *much* further away is the "sphere of fixed stars", representing the unmoving stars. From a 2D side view, the model looks like this:
+The model is similar to our current conception of the solar system, with the Sun at the center and the earth and other planets moving in circular orbits about it, which would make Aristarchus the first person we know of to conceive of the solar system as it actually exists. Much, much, *much* further away is the "sphere of fixed stars", representing the unmoving stars. From a 2D side view, the model looks like this:
 
 <img src="https://lh5.googleusercontent.com/proxy/FvN1nEgkEiIzAsTHWJ_7iRGyr6Qk7n2DWtk4StZdmkLTGvkU7IWz8h5m5BqO-2nQCL1ilc-v8FHNHXdER8E" width="300px" />
 
@@ -66,9 +88,13 @@ Therefore, if Archimedes knows the diameter of the Earth and the diameter of the
 
 He first assumes the circumference of the Earth is no more than 3 million *stadia*. He notes that this is much bigger than other estimates, which were closer to 300,000 stadia. Recall that we discussed Erasothenes, who came up with an estimate of about 250,000 stadia. Dividing by 3 as an approximation of pi, we conclude that the diameter of the Earth can't be bigger than 1 million stadia. This is the first piece.
 
-Citing earlier astronomers, he then states that the diameter of the Sun is no more than 30 times the diameter of the moon. The Earth is bigger than the moon, so the Sun's diameter can't be more than 30 million stadia.
+Throughout his calculations, Archimedes is consistently *overapproximates* quantites. He wants to show that it's possible to reason about huge numbers, so he's fine with making those numbers (and hence, the number of grains of sand in the universe) bigger than their "correct" values.
 
-The final part of this argument is the most technical. Archimedes argues that the orbit of the Earth around the Sun is about 1000 times the Sun's diameter. In the original manuscript, this leads to a long discussion where he describes an experiment he carried out to measure the angular size of the Sun in the sky. You can see some details [here](https://web.calstatela.edu/faculty/hmendel/Ancient%20Mathematics/Archimedes/SandReckoner/Ch.1/Ch1.html), but don't stress about it; it's pretty hard to follow.
+Citing earlier astronomers, he next states that the diameter of the Sun is no more than 30 times the diameter of the moon. The Earth is bigger than the moon, so the Sun's diameter can't be more than 30 million stadia.
+
+The final part of this argument is the most technical. Archimedes argues that the orbit of the Earth around the Sun is about 1000 times the Sun's diameter. He bases this on the fact that the angle taken up by the Sun in the sky is at least 1/1000th of a full circle.
+
+In the original manuscript, this leads to a long discussion where he describes an experiment he carried out to measure the angular size of the Sun in the sky. You can see some details [here](https://web.calstatela.edu/faculty/hmendel/Ancient%20Mathematics/Archimedes/SandReckoner/Ch.1/Ch1.html), but don't stress about it; it's pretty hard to follow.
 
 Putting all this together:
 
@@ -76,11 +102,11 @@ Putting all this together:
 
 - The Sun's diameter is 30 times this: 30 million stadia
 
-- The orbit of the Earth is 1000 times the Sun's diameter: 30 billion stadia
+- The length Earth's orbit is 1000 times the Sun's diameter: 30 billion stadia
 
-- Therefore, the diameter of Earth's orbit is about 10 billion stadia, which is 10000 times the diameter of Earth (1 million * 10000 = 10 billion)
+- Therefore, the diameter of Earth's orbit is about 10 billion stadia, which is 10,000 times the diameter of Earth (1 million * 10,000 = 10 billion)
 
-- The diameter of the entire universe is therefore 10 billion * 10000 = 100 trillion stadia. This is about [two light years](https://en.wikipedia.org/wiki/The_Sand_Reckoner), which might make Archimedes the first person to think on the scale of real astronomy.
+- The diameter of the entire universe is therefore 10 billion * 10,000 = 100 trillion stadia. This is about [two light years](https://en.wikipedia.org/wiki/The_Sand_Reckoner), which might make Archimedes the first person to think on the scale of real astronomy.
 
 ### Big Numbers
 
@@ -92,7 +118,7 @@ He then defines the *second order* as all the numbers that can be represented fr
 
 The *third order* are all the numbers from 100,000,000<sup>2</sup> to 100,000,000<sup>3</sup>. He then proposes continuing this process until arriving at the 100,000,000th order, which reaches the number 100,000,000<sup>100,000,000</sup>.
 
-Archimedes' system is very similar to a positional number system of **base-100 million**! Each "order" of his system is like adding one more digit that represents a power of 100,000,000. A number of the third order, for example, could be written in the following form:
+Archimedes' system is very similar to a positional number system of **base-100 million**! Each "order" of his system is like adding one more digit that represents a power of 100,000,000. The numbers up to the third order, for example, could be written in the following form:
 
 ```
     a  b  c
@@ -119,7 +145,7 @@ This is a 1 followed by 8 billion billion zeros (80 quadrillion zeros).
 
 Now the key question: Is such a number big enough to represent the grains of sand that would fill the entire universe?
 
-Throughout the last part, Archimedes uses the fact that the volume of a sphere scales with the cube of its diameter:
+Throughout this last part, Archimedes uses the fact that the volume of a sphere scales with the cube of its diameter:
 
 - If you double the diameter of sphere, the volume increases by a factor of 8
 - If you make the diameter ten times larger, the volume increases by a factor of 1000
