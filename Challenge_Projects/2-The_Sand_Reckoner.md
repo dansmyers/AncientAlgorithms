@@ -41,7 +41,7 @@ Submit the following:
 - A short summary of how your assignment extends the material of the text; What will a student learn by doing your assignment?
 - Finally, a statement of how the goals of your assignment map to **Bloom's Taxonomy**, a standard framework for assessing the complexity of learning goals.
 
-<img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/59/2019/03/27124326/Blooms-Taxonomy-650x366.jpg" width="400px" />
+<img src="https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/59/2019/03/27124326/Blooms-Taxonomy-650x366.jpg" width="600px" />
 
 *Vanderbilt Teaching and Learning*
 
