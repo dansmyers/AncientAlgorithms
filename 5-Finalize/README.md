@@ -9,13 +9,13 @@
 
 ## Final edits
 
-Finalize the content of your paper. You’re free to use AI to suggest edits, following the model of Phase 4. Experiment with prompting the AI in different ways to provide varying perspectives on your paper—for example, by asking it to take on different roles.
+Finalize the content of your paper. You’re free to use AI to suggest edits, following the model of Phase 4. Experiment with prompting the AI in different ways to provide varying perspectives on your paper—for example, by asking it to take on different roles. I recommend using Claude-3 for these tests.
 
 Record any significant prompts you run and edits you make in your journal file.
 
 ## Reflection
 
-Prompt the AI to act as your coach and use it to have a reflective conversation. Enter the conversation, including your responses, into your logbook.
+Prompt the AI to act as your coach and use it to have a reflective conversation. Enter the conversation, including your responses, into your logbook. Again, I recommend using Claude-3.
 
 
 *Imagine you are my coach. I just completed a research paper using AI writing tools to assist me through the process. Please have a reflective discussion with me as my coach to help me synthesize my learnings. Ask me questions like:*
