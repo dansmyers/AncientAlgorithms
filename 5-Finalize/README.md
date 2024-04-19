@@ -32,7 +32,7 @@ Prompt the AI to act as your coach and use it to have a reflective conversation.
 
 ## Lessons learned
 
-For your final element, write a one- to two-page summary talking about what you learned during this process. This is a reflection of your thoughts, so it should be written by you, without using any tools. You’re free to write your own thoughts, but some things you might want to consider include:
+For your final element, write a one- to two-page summary talking about what you learned during this process. This is a reflection of your thoughts, so it should be written by you, without using any tools. You’re free to write whatever you think is relevant, but some things you might want to consider include:
 
 - What were your previous experiences working with AI tools?
 
