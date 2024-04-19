@@ -9,6 +9,8 @@
 
 Finalize the content of your paper. You’re free to use AI to suggest edits, following the model of Phase 4. Experiment with prompting the AI in different ways to provide varying perspectives on your paper—for example, by asking it to take on different roles.
 
+Record any significant edits you make in your journal file.
+
 ## Reflection
 
 Prompt the AI to act as your coach and use it to have a reflective conversation. Enter the conversation, including your responses, into your logbook.
