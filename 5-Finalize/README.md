@@ -5,6 +5,8 @@
 
 *Freddie Mercury performing at the 2023 San Francisco Pride parade by Reddit user u/Legitimate-Room-1905*
 
+## Due Tuesday, April 30 (the last day of class) or thereabouts
+
 ## Final edits
 
 Finalize the content of your paper. You’re free to use AI to suggest edits, following the model of Phase 4. Experiment with prompting the AI in different ways to provide varying perspectives on your paper—for example, by asking it to take on different roles.
