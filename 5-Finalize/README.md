@@ -43,7 +43,7 @@ For your final element, write a one- to two-page summary talking about what you 
 - Based on your experiences, how do you think education should (or should not) adapt to respond to AI?
 
 
-### Submission
+## Submission
 
 Submit the completed final paper, your logbook containing the reflective conversation, and the final lessons learned write-up.
 
