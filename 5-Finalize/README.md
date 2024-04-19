@@ -1,7 +1,7 @@
 
 # Phase 5: Finalization and Reflection
 
-<img src="https://preview.redd.it/freddie-mercury-performs-at-the-2023-san-francisco-pride-v0-ye3gznympz4b1.png?width=1024&format=png&auto=webp&s=ad6293772c017d41d815359eb9710b1884d6ea4c" width="50%" />
+<img src="https://preview.redd.it/freddie-mercury-performs-at-the-2023-san-francisco-pride-v0-ye3gznympz4b1.png?width=1024&format=png&auto=webp&s=ad6293772c017d41d815359eb9710b1884d6ea4c" width="300px" />
 
 *Freddie Mercury performing at the 2023 San Francisco Pride parade by Reddit user u/Legitimate-Room-1905*
 
