@@ -18,7 +18,15 @@ Scholars have tried to understand the process for how the table might have been 
 
 In this project, you're going to read a 2002 paper about Plimpton 322 by Eleanor Robson, British assyriologist (a scholar who studies the ancient near East). In it, Robson digs into the actual cultural and linguistic content of the tablet and uses those facts to understand its mathematics. We're going to use Robson's paper to practice your literature reading skills and the art of summarizing a paper.
 
-## The Literature Review
+
+## Deliverables
+
+After reading the paper, you're going to produce two summaries:
+
+- A bulleted outline summarizing the main points of each section
+- A more concise one-paragraph summary of the entire paper
+
+## Tips for Your Thesis Literature Review
 
 When you complete a thesis, it's traditional to include a section that review the relevant literature. A good literature review will
 
@@ -35,6 +43,13 @@ Three common problems plague the thesis literature review:
 3. A review that summarizes a more-or-less random set of tangentially related papers, with no regard for their relationships or relative importance. This is what you get if you base your research on the top links returned by Google Scholar.
 
 A good literature review is more than a summary of several articles. Rather, it should be a concise overview of the **most important work and key background information** related to your topic. The focus of your review should be on **identifying and summarizing relevant and influential articles**.
+
+A good strategy for your lit review is to work from summaries of your sources:
+
+- Read each source and produce a one-paragraph summary, like the kind that we're practicing in this project
+- Once you've accumulated an appropriate number of background sources (which depends on the discipline and scope of your project), group them into natural categories
+- Each category becomes a subsection within the lit review portion of your thesis
+- Use the one-paragraph summaries with some connecting material to write each of the subsections
 
 
 ## Process
