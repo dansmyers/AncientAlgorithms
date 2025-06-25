@@ -51,6 +51,8 @@ A good strategy for your lit review is to work from summaries of your sources:
 - Each category becomes a subsection within the lit review portion of your thesis
 - Use the one-paragraph summaries with some connecting material to write each of the subsections
 
+The goal of this project is to help you with the process of reading and summarizing a real research article.
+
 
 ## Process
 
